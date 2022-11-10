@@ -1,0 +1,18 @@
+body{
+    /*this is a comment*/
+    /*curly braces seprates the each rule in the file.*/
+    /*all rules applicable to the body tag are denoted using the curly braces.*/
+    width: 600px;
+    /*centering the body requires the margin rule to the applied.*/
+    margin:auto;
+   /* border:1px solid red;*/
+    font-family: 'Work Sans', sans-serif;
+}
+
+div{
+   /* border:1px solid blue;*/
+}
+
+img{
+    width:100%;
+}
